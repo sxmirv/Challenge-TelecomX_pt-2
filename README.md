@@ -1,6 +1,6 @@
 # Challenge-TelecomX_pt-2
 
-Este projeto tem como objetivo analisar e prever a evasão de clientes (churn) em uma empresa de telecomunicações, utilizando técnicas de ciência de dados e aprendizado de máquina. Este desafio foi proposto na formação "Estatística e Machine Learning", do programa Oracle Next Education - ONE, parceria de Oracle + Alura.
+Este projeto, (continuação de [Challenge-TelecomX_BR]([https://github.com/usuario/repositorio](https://github.com/sxmirv/Challenge-TelecomX_BR))) tem como objetivo analisar e prever a evasão de clientes (churn) em uma empresa de telecomunicações, utilizando técnicas de ciência de dados e aprendizado de máquina. Este desafio foi proposto na formação "Estatística e Machine Learning", do programa Oracle Next Education - ONE, parceria de Oracle + Alura.
 
 ## 🔍 Objetivos
 
